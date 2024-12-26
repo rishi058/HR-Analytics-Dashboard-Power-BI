@@ -38,3 +38,9 @@ The **HR Analytics Dashboard** is a comprehensive tool built using Power BI to v
 ---
 This project highlights the power of data visualization and analytics to uncover valuable insights in the HR domain.
 
+--
+## How it looks :
+![Screenshot 2024-12-26 211626](https://github.com/user-attachments/assets/17cc2d8c-fb65-4c04-9b15-ff9a15aacad9)
+
+
+
